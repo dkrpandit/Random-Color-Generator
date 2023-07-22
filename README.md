@@ -10,3 +10,6 @@ This process can be repeated as many times as the user desires, allowing them to
 In summary, the "Random Color Generator" project is a fun and interactive web application that generates random colors, 
 giving users a visually pleasing and entertaining experience.
 It serves as a great tool for designers, artists, or anyone interested in exploring different color combinations for their projects.
+
+
+You can visit this link, https://dkrpandit.github.io/Random-Color-Generator/, to see how the website looks and works.
