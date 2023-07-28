@@ -3,7 +3,6 @@ The "Random Color Generator" is a simple web application that generates random h
 It allows users to explore a wide range of colors by clicking a button, triggering the generation of a new random color each time.
 
 How the Application Works:
-
 When the page is loaded, the initial call to the random Color function generates a random color and displays its hexadecimal code on the screen.
 When the "Click me" button is clicked, the random color function is called again, generating a new random color and updating the displayed color code accordingly.
 This process can be repeated as many times as the user desires, allowing them to explore various random colors.
